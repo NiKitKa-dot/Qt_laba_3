@@ -7,13 +7,12 @@ TARGET = ColorSwitcher
 TEMPLATE = app
 
 SOURCES += \
-    main.cpp \
     colorwidget.cpp \
+    main.cpp \
     palettebutton.cpp \
     mainwindow.cpp
 
 HEADERS += \
-    colorwidget.h \
     colorwidget.h \
     palettebutton.h \
     mainwindow.h
