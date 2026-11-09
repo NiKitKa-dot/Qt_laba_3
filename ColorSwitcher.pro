@@ -14,5 +14,6 @@ SOURCES += \
 
 HEADERS += \
     colorwidget.h \
+    colorwidget.h \
     palettebutton.h \
     mainwindow.h
